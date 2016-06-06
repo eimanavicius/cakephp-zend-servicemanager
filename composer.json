@@ -1,0 +1,27 @@
+{
+    "name": "eimanavicius/cakephp-zend-servicemanager",
+    "description": "Zend Service Manager integration plugin for CakePHP 2.x",
+    "type": "cakephp-plugin",
+    "require": {
+        "php": ">=5.3",
+        "zendframework/zend-servicemanager": "^2.7 || ^3.0",
+        "zendframework/zend-stdlib": "^2.0 || ^3.0",
+        "cakephp/cakephp": "^2.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~3.7.0"
+    },
+    "suggest": {
+        "eimanavicius/cakephp-container-interop": "For container interoperability in CakePHP"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nerijus Eimanavičius",
+            "email": "nerijus@eimanavicius.lt"
+        }
+    ],
+    "extra": {
+        "installer-name": "ZendServiceManager"
+    }
+}
