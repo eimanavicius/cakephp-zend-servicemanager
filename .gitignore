@@ -1,4 +1,12 @@
+### IDE
+.idea/
+nbproject/
+.metadata
+.settings/
+.project
+.buildpath
+
 ### Composer template
 composer.phar
-/vendor/
-
+composer.lock
+vendor/
