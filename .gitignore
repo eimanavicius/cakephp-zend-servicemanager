@@ -1,11 +1,3 @@
-### IDE
-.idea/
-nbproject/
-.metadata
-.settings/
-.project
-.buildpath
-
 ### Composer template
 composer.phar
 composer.lock
